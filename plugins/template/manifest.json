@@ -1,0 +1,14 @@
+{
+    "name": "Welcome-Macro",
+    "description": "I ain't typing allat",
+    "authors": [
+        {
+            "name": "Zinth",
+            "id": "672269738398974003"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
